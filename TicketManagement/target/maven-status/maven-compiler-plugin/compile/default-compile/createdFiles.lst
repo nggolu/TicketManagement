@@ -1,0 +1,16 @@
+com\nagarro\ticketmanagement\service\CommentService.class
+com\nagarro\ticketmanagement\service\EmployeeService.class
+com\nagarro\ticketmanagement\model\Employee.class
+com\nagarro\ticketmanagement\controller\TicketController.class
+com\nagarro\ticketmanagement\model\Comment.class
+com\nagarro\ticketmanagement\TicketManagement.class
+com\nagarro\ticketmanagement\dao\TicketRepository.class
+com\nagarro\ticketmanagement\model\Ticket.class
+com\nagarro\ticketmanagement\dao\EmployeeRepository.class
+com\nagarro\ticketmanagement\model\User.class
+com\nagarro\ticketmanagement\model\AssignedTicket.class
+com\nagarro\ticketmanagement\service\TicketService.class
+com\nagarro\ticketmanagement\service\EmailService.class
+com\nagarro\ticketmanagement\dao\CommentRepository.class
+com\nagarro\ticketmanagement\controller\CommentController.class
+com\nagarro\ticketmanagement\controller\EmployeeController.class
